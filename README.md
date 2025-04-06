@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Alexei!
-I'm a passionate designer and a dedicated developer based in Israel.<br/> Specializing in crafting dynamic and responsive web applications and backend systems.<br/>
+I'm a passionate designer and a dedicated developer.<br/> Specializing in crafting dynamic and responsive web applications and backend systems.<br/>
 Always eager to learn, adapt, and take on new challenges.<br/> I bring ideas to life with clean code and innovative solutions.<br/>
-I specialize in creating robust, user-friendly applications, with a focus on clean, efficient code.<br/>
-With a strong foundation in programming, and a passion for continuous learning, I bring innovative solutions to the table.
+
 <br/>
 ## 💼 Skills & Experience
 
