@@ -7,25 +7,25 @@ Always eager to learn, adapt, and take on new challenges.<br/> I bring ideas to 
 
 ### Technical Skills
 
-#### Languages & Frameworks <br/>
+Languages & Frameworks <br/>
 Node.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS, 
 
-#### Databases & ORMs <br/>
+Databases & ORMs <br/>
 MongoDB, Mongoose, PostgreSQL, MySQL
 
-#### API Development <br/>
+API Development <br/>
 Express.js
 
-#### Frontend Development <br/>
+Frontend Development <br/>
 React.js, Redux, Next.js
 
-#### API Design & Tools <br/>
+API Design & Tools <br/>
 Swagger, POSTMAN
 
-#### Development & Deployment <br/>
+Development & Deployment <br/>
 Git, GitHub
 
-#### UX/UI & Design <br/>
+UX/UI & Design <br/>
 Figma, Photoshop, Pen and Paper 😊
 <br/>
 
