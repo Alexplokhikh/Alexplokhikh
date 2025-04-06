@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alexei!
 I'm a passionate designer and a dedicated developer.<br/> Specializing in crafting dynamic and responsive web applications and backend systems.<br/>
 Always eager to learn, adapt, and take on new challenges.<br/> I bring ideas to life with clean code and innovative solutions.<br/>
-
 <br/>
+
 ## 💼 Skills & Experience
 
 ### Technical Skills
@@ -28,6 +28,7 @@ Git, GitHub
 UX/UI & Design <br/>
 Figma, Photoshop, Pen and Paper 😊
 <br/>
+
 ### Soft Skills
 A combination of skills I've acquired through my years:
 
