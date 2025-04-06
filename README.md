@@ -54,7 +54,6 @@ These projects and course material emphasize fundamental computer science concep
 
 #### all of my projects, and other repositories containing my work are open to view on my github pages...
 <br/>
----
 
 ## 🛠 Current position
 I'm currently looking for my next challenge, and my first position as a junior developer!
