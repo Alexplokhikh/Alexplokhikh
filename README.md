@@ -1,10 +1,10 @@
-#👋 Hi, I'm Alexei!
+# 👋 Hi, I'm Alexei!
 ---
 I'm a passionate Designer and a dedicated Developer based in Israel. specializing in crafting dynamic and responsive web applications and backend systems.
 
-##💼 Skills & Experience
+## 💼 Skills & Experience
 ---
-###Technical Skills
+### Technical Skills
 
 Languages & Frameworks
 Node.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS, 
@@ -28,7 +28,7 @@ UX/UI & Design
 Figma, Photoshop, Pen and Paper 😊
 
 ---
-###Soft Skills
+### Soft Skills
 A combination of skills I've acquired through my years:
 
 Adaptability
@@ -45,18 +45,18 @@ Teamwork
 Time Management
 
 ---
-##🏆 Projects
+## 🏆 Projects
 My GitHub serves as a showcase of my favourite projects and course work stemming from immersive online courses.
 These projects and course material emphasize fundamental computer science concepts and web development technologies.
 
-###Here is a link to my [Portfolio](https://plokhikh.netlify.app/):
+### Here is a link to my [Portfolio](https://plokhikh.netlify.app/):
 all of my projects, and other repositories containing my work are open to view on my github pages...
 ---
-##🛠 Current position
+## 🛠 Current position
 I'm currently looking for my next challenge, and my first position as a junior developer!
 
-##🎓 Currently Learning
+## 🎓 Currently Learning
 I'm currently focused on courses and certifications aimed at Mastering the MERN stack. I'm passionate about improving my designer vision, from-design-to-a-webpage, and delivering high-quality products.
 
-##🫱🏼‍🫲🏻 Get in Touch
+## 🫱🏼‍🫲🏻 Get in Touch
 Feel free to reach out to me through LinkedIn or Email. I'm always open to connecting with like-minded professionals and exploring new opportunities.
